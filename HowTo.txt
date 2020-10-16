@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=FCSL2d6uhVs&t=1s
+
 --> install module
 pip3 install SQLAlchemy
 pip3 install databases
